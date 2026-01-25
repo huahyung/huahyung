@@ -1,5 +1,6 @@
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/6d88b558-1e8e-4b5e-a885-bfcafdc0e915" />
 
+I am 18 years old  IT student from Russia.
 
 <!--
 **huahyung/huahyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
