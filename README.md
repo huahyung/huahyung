@@ -9,31 +9,23 @@
         tg: https://web.telegram.org/a/#-1001968713298</br>
         email: glusenkovika38@gmail.com
 
-<style>
-  /* Убираем маркеры и стандартные отступы */
-  .horizontal-list {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-  }
+
   
-  /* Располагаем элементы горизонтально */
-  .horizontal-list li {
-    display: inline-block; /* или inline */
-    margin-right: 20px; /* отступ между элементами */
-  }
-  
-  /* Для последнего элемента убираем правый отступ */
-  .horizontal-list li:last-child {
-    margin-right: 0;
-  }
-</style>
+
 <h2>Languages</h2>
-<ul class="horizontal-list">
-  <li>C#</li>
-  <LI>Python</LI>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>XAML</li>
-  <LI>XML</LI>
+<ul style="list-style-type: none;
+    padding: 0;
+    margin: 0;">
+  <li style="display: inline-block; 
+    margin-right: 20px; ">C#</li>
+  <LI style="display: inline-block; 
+    margin-right: 20px;">Python</LI>
+  <li style="display: inline-block; 
+    margin-right: 20px;">HTML</li>
+  <li style="display: inline-block; 
+    margin-right: 20px;">CSS</li>
+  <li style="display: inline-block; 
+    margin-right: 20px;">XAML</li>
+  <LI style="display: inline-block; 
+    margin-right: 0;">XML</LI>
 </ul>
