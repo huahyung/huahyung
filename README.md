@@ -1,18 +1,21 @@
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/6d88b558-1e8e-4b5e-a885-bfcafdc0e915" />
 
-I am 18 years old  IT student from Russia.
+<h1>I am 18 years old  IT student from Russia.</h1>
 
-<!--
-**huahyung/huahyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on my college tasks and games
+- 🌱 I’m currently learning Android Studio and 1C
+- 🤔 I’m looking for help with BackEnd and FrontEnd
+- 📫 How to reach me:
+        tg: https://web.telegram.org/a/#-1001968713298
+        email: glusenkovika38@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Languages</h2>
+<ul>
+  <li>C#</li>
+  <LI>Python</LI>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>XAML</li>
+  <LI>XML</LI>
+</ul>
