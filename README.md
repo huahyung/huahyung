@@ -6,12 +6,12 @@
 - 🌱 I’m currently learning Android Studio and 1C
 - 🤔 I’m looking for help with BackEnd and FrontEnd
 - 📫 How to reach me:
-        tg: https://web.telegram.org/a/#-1001968713298
+        tg: https://web.telegram.org/a/#-1001968713298</br>
         email: glusenkovika38@gmail.com
 
 
 <h2>Languages</h2>
-<ul>
+<ul style="list-style:none">
   <li>C#</li>
   <LI>Python</LI>
   <li>HTML</li>
